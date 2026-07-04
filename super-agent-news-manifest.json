@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google)",
+    "[yahoo.com](https://finance.yahoo.com)",
+    "[scmedia.com](https://www.scmagazine.com)",
+    "[darkreading.com](https://www.darkreading.com)",
+    "[mit.edu](https://news.mit.edu)",
+    "[cnbc.com](https://www.cnbc.com)"
+  ],
+  "design_plan": "rng=42;aida=pass;hero_lines=3;bento_density=grid-auto-flow:dense;label_sweep=ok;button_contrast=ok",
+  "generated_at": "2026-07-04T21:39:20.031738+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion\u2011focused niche landing page for ecommerce operators who live inside order dashboards, inboxes, and back\u2011office tools. Super is positioned as the sharper alternative for repeated computer\u2011use workflows, with a reusable computer\u2011use cache that compounds over time \u2014 unlike chat\u2011first assistants."
+}
